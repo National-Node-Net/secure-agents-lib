@@ -120,7 +120,7 @@ information.
 
 Note that some of the other modules already depend on this module so an explicit dependency may be unnecessary.
 
-© Crown Copyright 2025. This work has been developed by the National Digital Twin Programme and is legally attributed to the Department for Business and Trade (UK) as the
+© Crown Copyright 2026. This work has been developed by the National Digital Twin Programme and is legally attributed to the UK's Department for Business, Innovation, Science and Trade (BIST) as the
 governing entity.
 
 Licensed under the Open Government Licence v3.0.
