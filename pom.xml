@@ -150,7 +150,7 @@
         <dependency.logback>1.5.18</dependency.logback>
         <dependency.lombok>1.18.36</dependency.lombok>
         <dependency.mockito>5.16.1</dependency.mockito>
-        <dependency.opentelemetry.agent>2.14.0</dependency.opentelemetry.agent>
+        <dependency.opentelemetry.agent>2.28.0</dependency.opentelemetry.agent>
         <dependency.opentelemetry.sdk>1.48.0</dependency.opentelemetry.sdk>
         <dependency.opentelemetry.sdk-alpha>1.29.0-alpha</dependency.opentelemetry.sdk-alpha>
         <dependency.rdf-abac>0.90.0</dependency.rdf-abac>
